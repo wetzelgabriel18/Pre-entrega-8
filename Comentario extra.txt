@@ -1,0 +1,1 @@
+No marqué la tabla Dim_Fechas como tabla de fechas, porque al hacerlo se me rompía la matriz.
